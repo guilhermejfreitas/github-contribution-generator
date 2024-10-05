@@ -1,0 +1,9 @@
+{
+    "name": "github-contribution-generator",
+    "version": "1.0.1",
+    "description": "Github Contribution Generator",
+    "main": "index.js",
+    "bin": {
+        "gcg": "./index.js"
+    }
+}
